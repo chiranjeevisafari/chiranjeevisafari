@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)<br>![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)<br>![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)<br>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge)<br><br># Hi 👋, I'm Chiranjeevi<br><br>## About Me<br><br>💼 Software Test Engineer with 6+ years of experience<br><br>🤖 3+ years of Automation Testing using Selenium, Java, TestNG, Cucumber & UI Automator<br><br>📱 Experienced in Android Automotive OS (AAOS) Infotainment Testing<br><br>🔍 Skilled in API Testing using Postman and Rest Assured<br><br>⚙️ CI/CD experience with Jenkins, Git, Gerrit and Agile methodologies<br><br>🚛 Currently working on Android Automotive Infotainment Systems<br><br>🌱 Exploring AI-powered Test Automation and Log Analysis Tools<br><br>📫 Reach me at: schiranjeevi2696@example.com<br><br>💬 Ask me about Selenium, Java, Test Automation, Android Testing, API Testing and CI/CD<br><br>---<br><br>## Tech Stack<br><br>- Java<br>- Selenium WebDriver<br>- TestNG<br>- Cucumber BDD<br>- Rest Assured<br>- Postman<br>- UI Automator<br>- Android Automotive OS<br>- Jenkins<br>- Git & Gerrit<br>- SQL<br>- Linux<br>- JIRA<br><br>---<br><br>## Featured Projects<br><br>### 🚀 AI Automotive Log Analyzer<br>Analyzes Android Automotive logs and identifies failures automatically using AI.<br><br>### 📱 Android UI Automation Framework<br>UI Automator-based automation framework for Android infotainment testing.<br><br>### 🔗 API Automation Framework<br>REST API automation using Java, Rest Assured, TestNG and Maven.
 
-<!--
-**chiranjeevisafari/chiranjeevisafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chiranjeevisafari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=chiranjeevisafari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chiranjeevisafari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=chiranjeevisafari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
